@@ -1,0 +1,198 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+starting summary loop...
+
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.5.b0.01.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in  7.057603 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.5.b0.02.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 11.099019 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.5.b0.04.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 15.041405 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.9.b0.01.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 19.004685 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.9.b0.02.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 22.950566 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.9.b0.04.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 26.937344 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.b0.01.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 30.901919 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.b0.02.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 34.858180 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.b0.04.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 38.774835 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax1.b1.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 42.749726 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax2.3.b0.01.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 46.701061 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax2.3.b0.02.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 50.706211 sec...
+
+matFile =
+
+resdata/mapL_curvatureLS.tMax2.3.b0.04.mat
+
+running administration stuff...
+setting up data...success!
+setting up information for quiver...success!
+generating 2D quiver...success!
+printing 2D quiver...success!
+
+exiting function call.
+
+completed plot summary in 54.689153 sec...
+
+finished loops...
+
+exiting script...

@@ -1,0 +1,27 @@
+This not is in regard to how the scaled mean curvature term is
+implemented. At present, the definition of the scaling function
+lies in the termRadiusOfCurvature.m file. 
+
+A better way to do this might be to include the scaling function
+as a part of the schemeData struct object and pass the the scaling
+function to the termRadiusOfCurvature function from outside. That
+way, the definition of this function can be controlled either from
+within evoLS_curvature, or from the radiusOfCurvatureLSevo file
+itself. 
+
+Not only would this implementation be much easier, but it would
+also be significantly easier to keep track of which scaling
+function is used for each simulation. 
+
+As it stands, ScalingFn2 represents a function that is
+approximately of the form:
+              y = kappa/sqrt(kappa^2 + 1) 
+with a parameter controlling translation of this function.
+
+Consequently, one should note that these implementations are
+likely unbounded, since for negative curvature values it is
+possible for the scaling function to be negative, thereby implying
+that the solution of the level set equation is locally ill-posed. 
+
+For all other runs, the scaling function used is the default:
+              y = exp(-beta/kappa^2). 

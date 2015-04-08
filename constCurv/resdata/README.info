@@ -1,0 +1,10 @@
+These (13) files were created by running mapLRunEvoLS.m, which
+calls evoLS_curvature and evoLS_reinit on a geotiff file, to
+evolve a level surface representation of bathymetry data of the
+Earth. The file names correspond with the paramter values that
+were varied over the course of the runs. 
+
+Generally, it was found that a higher b value and longer duration
+improved the final outcome of the map (with respect to effective
+smoothing of small details, while preserving [with relative
+accuracy] the shape of larger features). 

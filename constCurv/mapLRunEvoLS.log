@@ -1,0 +1,260 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+file fetch complete...
+successfully read in TIFF image...
+successfully loaded geoR...
+beginning reinitialization...
+	24 steps in 468.57 seconds from 0 to 0.1
+	24 steps in 464.33 seconds from 0.1 to 0.2
+	24 steps in 457.54 seconds from 0.2 to 0.3
+	24 steps in 455.17 seconds from 0.3 to 0.4
+	24 steps in 453.19 seconds from 0.4 to 0.5
+	24 steps in 462.4 seconds from 0.5 to 0.6
+	24 steps in 458.71 seconds from 0.6 to 0.7
+	24 steps in 462.88 seconds from 0.7 to 0.8
+	24 steps in 473.68 seconds from 0.8 to 0.9
+	24 steps in 472.24 seconds from 0.9 to 1
+
+Total execution time 4629.01 seconds
+reinitialization complete...
+beginning curvature evolution for tMax=1.000, bVal=0.010...
+	16 steps in 157.56 seconds from 0 to 0.1
+	16 steps in 157.58 seconds from 0.1 to 0.2
+	16 steps in 154.52 seconds from 0.2 to 0.3
+	16 steps in 154.52 seconds from 0.3 to 0.4
+	16 steps in 154.14 seconds from 0.4 to 0.5
+	16 steps in 155.65 seconds from 0.5 to 0.6
+	16 steps in 153.92 seconds from 0.6 to 0.7
+	16 steps in 154.66 seconds from 0.7 to 0.8
+	16 steps in 154.77 seconds from 0.8 to 0.9
+	16 steps in 154.77 seconds from 0.9 to 1
+Total execution time 1552.43 seconds
+curvature evolution 01 complete...
+Successfully saved results for run 01...
+
+beginning curvature evolution for tMax=1.500, bVal=0.010...
+	24 steps in 232.2 seconds from 0 to 0.15
+	24 steps in 231.77 seconds from 0.15 to 0.3
+	24 steps in 231.88 seconds from 0.3 to 0.45
+	24 steps in 230.94 seconds from 0.45 to 0.6
+	24 steps in 231.18 seconds from 0.6 to 0.75
+	24 steps in 231.25 seconds from 0.75 to 0.9
+	24 steps in 231.46 seconds from 0.9 to 1.05
+	24 steps in 230.78 seconds from 1.05 to 1.2
+	24 steps in 232.27 seconds from 1.2 to 1.35
+	24 steps in 232.04 seconds from 1.35 to 1.5
+Total execution time 2316.09 seconds
+curvature evolution 02 complete...
+Successfully saved results for run 02...
+
+beginning curvature evolution for tMax=1.900, bVal=0.010...
+	31 steps in 297.31 seconds from 0 to 0.19
+	31 steps in 297.94 seconds from 0.19 to 0.38
+	31 steps in 297.72 seconds from 0.38 to 0.57
+	31 steps in 300.43 seconds from 0.57 to 0.76
+	31 steps in 298.44 seconds from 0.76 to 0.95
+	31 steps in 300.47 seconds from 0.95 to 1.14
+	31 steps in 306.39 seconds from 1.14 to 1.33
+	31 steps in 305.67 seconds from 1.33 to 1.52
+	31 steps in 305.65 seconds from 1.52 to 1.71
+	31 steps in 304.77 seconds from 1.71 to 1.9
+Total execution time 3015.1 seconds
+curvature evolution 03 complete...
+Successfully saved results for run 03...
+
+beginning curvature evolution for tMax=2.300, bVal=0.010...
+	37 steps in 362.34 seconds from 0 to 0.23
+	37 steps in 362.17 seconds from 0.23 to 0.46
+	37 steps in 362.62 seconds from 0.46 to 0.69
+	37 steps in 361.17 seconds from 0.69 to 0.92
+	37 steps in 361.61 seconds from 0.92 to 1.15
+	37 steps in 362.46 seconds from 1.15 to 1.38
+	37 steps in 362.43 seconds from 1.38 to 1.61
+	37 steps in 362.28 seconds from 1.61 to 1.84
+	37 steps in 362.68 seconds from 1.84 to 2.07
+	37 steps in 367.28 seconds from 2.07 to 2.3
+Total execution time 3627.36 seconds
+curvature evolution 04 complete...
+Successfully saved results for run 04...
+
+beginning curvature evolution for tMax=1.000, bVal=0.020...
+	32 steps in 316.29 seconds from 0 to 0.1
+	32 steps in 315.59 seconds from 0.1 to 0.2
+	32 steps in 315.93 seconds from 0.2 to 0.3
+	32 steps in 315.91 seconds from 0.3 to 0.4
+	32 steps in 316.34 seconds from 0.4 to 0.5
+	32 steps in 315.87 seconds from 0.5 to 0.6
+	32 steps in 315.98 seconds from 0.6 to 0.7
+	32 steps in 314.96 seconds from 0.7 to 0.8
+	32 steps in 316.1 seconds from 0.8 to 0.9
+	32 steps in 318.08 seconds from 0.9 to 1
+Total execution time 3161.35 seconds
+curvature evolution 05 complete...
+Successfully saved results for run 05...
+
+beginning curvature evolution for tMax=1.500, bVal=0.020...
+	48 steps in 479.37 seconds from 0 to 0.15
+	48 steps in 482.19 seconds from 0.15 to 0.3
+	48 steps in 488.9 seconds from 0.3 to 0.45
+	48 steps in 487.17 seconds from 0.45 to 0.6
+	48 steps in 488.71 seconds from 0.6 to 0.75
+	48 steps in 484.89 seconds from 0.75 to 0.9
+	48 steps in 478.25 seconds from 0.9 to 1.05
+	48 steps in 477.75 seconds from 1.05 to 1.2
+	48 steps in 471.52 seconds from 1.2 to 1.35
+	48 steps in 471.03 seconds from 1.35 to 1.5
+Total execution time 4810.08 seconds
+curvature evolution 06 complete...
+Successfully saved results for run 06...
+
+beginning curvature evolution for tMax=1.900, bVal=0.020...
+	61 steps in 599.45 seconds from 0 to 0.19
+	61 steps in 598.35 seconds from 0.19 to 0.38
+	61 steps in 598.92 seconds from 0.38 to 0.57
+	61 steps in 596.46 seconds from 0.57 to 0.76
+	61 steps in 597.36 seconds from 0.76 to 0.95
+	61 steps in 596.82 seconds from 0.95 to 1.14
+	61 steps in 598.34 seconds from 1.14 to 1.33
+	61 steps in 598.3 seconds from 1.33 to 1.52
+	61 steps in 599.02 seconds from 1.52 to 1.71
+	61 steps in 596.86 seconds from 1.71 to 1.9
+Total execution time 5980.17 seconds
+curvature evolution 07 complete...
+Successfully saved results for run 07...
+
+beginning curvature evolution for tMax=2.300, bVal=0.020...
+	74 steps in 724.26 seconds from 0 to 0.23
+	74 steps in 724.24 seconds from 0.23 to 0.46
+	74 steps in 723.34 seconds from 0.46 to 0.69
+	74 steps in 722.44 seconds from 0.69 to 0.92
+	74 steps in 722.94 seconds from 0.92 to 1.15
+	74 steps in 728.71 seconds from 1.15 to 1.38
+	74 steps in 732.14 seconds from 1.38 to 1.61
+	74 steps in 730.87 seconds from 1.61 to 1.84
+	74 steps in 733.04 seconds from 1.84 to 2.07
+	74 steps in 731.48 seconds from 2.07 to 2.3
+Total execution time 7273.75 seconds
+curvature evolution 08 complete...
+Successfully saved results for run 08...
+
+beginning curvature evolution for tMax=1.000, bVal=0.040...
+	64 steps in 633.31 seconds from 0 to 0.1
+	64 steps in 630.69 seconds from 0.1 to 0.2
+	64 steps in 631.56 seconds from 0.2 to 0.3
+	64 steps in 632.29 seconds from 0.3 to 0.4
+	64 steps in 632.37 seconds from 0.4 to 0.5
+	64 steps in 630.67 seconds from 0.5 to 0.6
+	64 steps in 631.71 seconds from 0.6 to 0.7
+	64 steps in 630.63 seconds from 0.7 to 0.8
+	64 steps in 632.84 seconds from 0.8 to 0.9
+	64 steps in 632.29 seconds from 0.9 to 1
+Total execution time 6318.62 seconds
+curvature evolution 09 complete...
+Successfully saved results for run 09...
+
+beginning curvature evolution for tMax=1.500, bVal=0.040...
+	96 steps in 947.58 seconds from 0 to 0.15
+	96 steps in 946.1 seconds from 0.15 to 0.3
+	96 steps in 946.75 seconds from 0.3 to 0.45
+	96 steps in 946.91 seconds from 0.45 to 0.6
+	96 steps in 942.2 seconds from 0.6 to 0.75
+	96 steps in 935.89 seconds from 0.75 to 0.9
+	96 steps in 932.69 seconds from 0.9 to 1.05
+	96 steps in 934.73 seconds from 1.05 to 1.2
+	96 steps in 936.81 seconds from 1.2 to 1.35
+	96 steps in 935.72 seconds from 1.35 to 1.5
+Total execution time 9405.65 seconds
+curvature evolution 10 complete...
+Successfully saved results for run 10...
+
+beginning curvature evolution for tMax=1.900, bVal=0.040...
+	122 steps in 1186.55 seconds from 0 to 0.19
+	122 steps in 1183.33 seconds from 0.19 to 0.38
+	122 steps in 1185.68 seconds from 0.38 to 0.57
+	122 steps in 1185.63 seconds from 0.57 to 0.76
+	122 steps in 1185.2 seconds from 0.76 to 0.95
+	122 steps in 1186.71 seconds from 0.95 to 1.14
+	122 steps in 1184.06 seconds from 1.14 to 1.33
+	122 steps in 1184.44 seconds from 1.33 to 1.52
+	122 steps in 1188.13 seconds from 1.52 to 1.71
+	122 steps in 1195.15 seconds from 1.71 to 1.9
+Total execution time 11865.1 seconds
+curvature evolution 11 complete...
+Successfully saved results for run 11...
+
+beginning curvature evolution for tMax=2.300, bVal=0.040...
+	148 steps in 1442.88 seconds from 0 to 0.23
+	148 steps in 1446.94 seconds from 0.23 to 0.46
+	148 steps in 1441.11 seconds from 0.46 to 0.69
+	148 steps in 1437.57 seconds from 0.69 to 0.92
+	148 steps in 1438.5 seconds from 0.92 to 1.15
+	148 steps in 1435.69 seconds from 1.15 to 1.38
+	148 steps in 1438.82 seconds from 1.38 to 1.61
+	148 steps in 1444.09 seconds from 1.61 to 1.84
+	148 steps in 1456.33 seconds from 1.84 to 2.07
+	148 steps in 1464.28 seconds from 2.07 to 2.3
+Total execution time 14446.4 seconds
+curvature evolution 12 complete...
+Successfully saved results for run 12...
+
+beginning curvature evolution for tMax=1.000, bVal=1.000...
+	1601 steps in 15802.6 seconds from 0 to 0.1
+	1601 steps in 15815.2 seconds from 0.1 to 0.2
+	1600 steps in 15736 seconds from 0.2 to 0.3
+	1600 steps in 15628.5 seconds from 0.3 to 0.4
+	1600 steps in 15609.1 seconds from 0.4 to 0.5
+	1601 steps in 15855.8 seconds from 0.5 to 0.6
+	1601 steps in 15741.1 seconds from 0.6 to 0.7
+	1601 steps in 15785.3 seconds from 0.7 to 0.8
+	1601 steps in 15733.2 seconds from 0.8 to 0.9
+	1601 steps in 15716.4 seconds from 0.9 to 1
+Total execution time 157424 seconds
+curvature evolution 13 complete...
+Successfully saved results for run 13...
+
+beginning curvature evolution for tMax=1.500, bVal=1.000...
+	2401 steps in 23767.1 seconds from 0 to 0.15
+	2400 steps in 23354.1 seconds from 0.15 to 0.3
+	2400 steps in 24011.2 seconds from 0.3 to 0.45
+	2401 steps in 23769.6 seconds from 0.45 to 0.6
+{Operation terminated by user during curvatureSecond (after line 53)
+
+
+In termCurvature (line 143)
+  [ curvature, gradMag ] = feval(thisSchemeData.curvatureFunc, grid, data);
+
+In odeCFL2 (line 168)
+        [ ydot{i}, stepBound(i), schemeData ] = ...
+
+In evoLS_curvature (line 161)
+  [ t y ] = feval(integratorFunc, schemeFunc, tSpan, y0,...
+
+In mapLRunEvoLS (line 88)
+  d_curv = evoLS_curvature(d_reinit, g, parMat(1,k), parMat(2,k)); % medium
+  accuracy:
+} 
+evoLS_curvature.m    mapLRunEvoLS.m~
+evoLSPlotSummary.m   NCSAlargeCurvatureLSEvo.m
+evoLSPlotSummary.m~  NCSAlargeCurvatureLSEvo.m~
+evoLS_reinit.m	     NCSAPlottingScript.m
+geoR.mat	     NCSAPlottingScript.m~
+images		     NorthernSA_large_curvatureLS.mat
+mapLRunEvoLS.log     NorthernSA_large_long_curvatureLS.mat
+mapLRunEvoLS.m	     resdata
+
+mapL_curvatureLS.tMax1.5.b0.01.mat  mapL_curvatureLS.tMax1.b0.02.mat
+mapL_curvatureLS.tMax1.5.b0.02.mat  mapL_curvatureLS.tMax1.b0.04.mat
+mapL_curvatureLS.tMax1.5.b0.04.mat  mapL_curvatureLS.tMax1.b1.mat
+mapL_curvatureLS.tMax1.9.b0.01.mat  mapL_curvatureLS.tMax2.3.b0.01.mat
+mapL_curvatureLS.tMax1.9.b0.02.mat  mapL_curvatureLS.tMax2.3.b0.02.mat
+mapL_curvatureLS.tMax1.9.b0.04.mat  mapL_curvatureLS.tMax2.3.b0.04.mat
+mapL_curvatureLS.tMax1.b0.01.mat
+

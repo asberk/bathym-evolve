@@ -1,0 +1,66 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Trying to read in geotiff file using geotiffread...failed!
+It's likely that this version of MATLAB does not have geotiffread (see explanation below...)
+
+
+ME = 
+
+  MException with properties:
+
+    identifier: 'MATLAB:UndefinedFunction'
+       message: [1x68 char]
+         cause: {}
+         stack: [1x1 struct]
+
+
+
+Trying alternative read in; requires geoRLarge.mat...
+    found geoRLarge.mat
+    reading geoRLarge.mat
+    reading TIFF image using imread...Success!
+
+Attempting reinitialization...
+	35 steps in 726.9 seconds from 0 to 0.1
+	35 steps in 719.86 seconds from 0.1 to 0.2
+	35 steps in 716.97 seconds from 0.2 to 0.3
+	35 steps in 694.55 seconds from 0.3 to 0.4
+	35 steps in 680.82 seconds from 0.4 to 0.5
+	35 steps in 673.34 seconds from 0.5 to 0.6
+	35 steps in 675.29 seconds from 0.6 to 0.7
+	35 steps in 673.94 seconds from 0.7 to 0.8
+	35 steps in 677.24 seconds from 0.8 to 0.9
+	35 steps in 670.71 seconds from 0.9 to 1
+
+Total execution time 6909.85 seconds
+Reinitialization complete.
+Starting level set evolution(s) by RoC...
+--parametrizing runs...
+--total number of runs is 01
+--beginning curvature evolution 01 of 01;
+----tMax=4.000, bVal=0.020...
+	411 steps in 1992.73 seconds from 0 to 0.4
+	411 steps in 1940.8 seconds from 0.4 to 0.8
+	411 steps in 1927.64 seconds from 0.8 to 1.2
+	411 steps in 1938.17 seconds from 1.2 to 1.6
+	411 steps in 2043.24 seconds from 1.6 to 2
+	411 steps in 2235.42 seconds from 2 to 2.4
+	411 steps in 2231.91 seconds from 2.4 to 2.8
+	411 steps in 2228.99 seconds from 2.8 to 3.2
+	411 steps in 2151.35 seconds from 3.2 to 3.6
+	411 steps in 2120.14 seconds from 3.6 to 4
+Total execution time 20810.5 seconds
+---Complete!
+--Saving result...success!
+Level set evolutions complete.
+
+
+exiting script...

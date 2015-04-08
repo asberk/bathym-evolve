@@ -1,0 +1,66 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Trying to read in geotiff file using geotiffread...failed!
+It's likely that this version of MATLAB does not have geotiffread (see explanation below...)
+
+
+ME = 
+
+  MException with properties:
+
+    identifier: 'MATLAB:UndefinedFunction'
+       message: [1x68 char]
+         cause: {}
+         stack: [1x1 struct]
+
+
+
+Trying alternative read in; requires geoRLarge.mat...
+    found geoRLarge.mat
+    reading geoRLarge.mat
+    reading TIFF image using imread...Success!
+
+Attempting reinitialization...
+	35 steps in 727.5 seconds from 0 to 0.1
+	35 steps in 724.31 seconds from 0.1 to 0.2
+	35 steps in 720.75 seconds from 0.2 to 0.3
+	35 steps in 716.12 seconds from 0.3 to 0.4
+	35 steps in 712.3 seconds from 0.4 to 0.5
+	35 steps in 715.03 seconds from 0.5 to 0.6
+	35 steps in 714.07 seconds from 0.6 to 0.7
+	35 steps in 715.33 seconds from 0.7 to 0.8
+	35 steps in 716.09 seconds from 0.8 to 0.9
+	35 steps in 714.35 seconds from 0.9 to 1
+
+Total execution time 7176.11 seconds
+Reinitialization complete.
+Starting level set evolution(s) by RoC...
+--parametrizing runs...
+--total number of runs is 01
+--beginning curvature evolution 01 of 01;
+----tMax=2.300, bVal=0.040...
+	473 steps in 2355.43 seconds from 0 to 0.23
+	473 steps in 2347.93 seconds from 0.23 to 0.46
+	473 steps in 2353.51 seconds from 0.46 to 0.69
+	473 steps in 2360.54 seconds from 0.69 to 0.92
+	473 steps in 2358.43 seconds from 0.92 to 1.15
+	473 steps in 2584.07 seconds from 1.15 to 1.38
+	473 steps in 2583.64 seconds from 1.38 to 1.61
+	473 steps in 2580.27 seconds from 1.61 to 1.84
+	473 steps in 2583.26 seconds from 1.84 to 2.07
+	473 steps in 2580.62 seconds from 2.07 to 2.3
+Total execution time 24687.8 seconds
+---Complete!
+--Saving result...success!
+Level set evolutions complete.
+
+
+exiting script...
